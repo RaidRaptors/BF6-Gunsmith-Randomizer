@@ -25,7 +25,7 @@
 
 **普通用户（推荐）**：无需安装 Node 或任何构建环境，直接下载打包好的安装包：
 
-1. 前往 [Releases](https://github.com/RaidRaptors/My-AI-powered-software/releases) 下载 `BF6-Gunsmith-Randomizer-v1.0.0-win-x64.zip`
+1. 前往 [Releases](https://github.com/RaidRaptors/BF6-Gunsmith-Randomizer/releases) 下载 `BF6-Gunsmith-Randomizer-v1.0.0-win-x64.zip`
 2. 解压到任意目录（保持文件夹结构完整，勿单独移动 exe）
 3. 双击「启动.bat」或「BF6-Gunsmith-Randomizer.exe」运行
 
