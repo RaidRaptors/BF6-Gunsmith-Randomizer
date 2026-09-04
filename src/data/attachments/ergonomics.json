@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ergonomics_01",
+    "nameZh": "DLC枪机",
+    "slot": "ergonomics",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_02",
+    "nameZh": "全自动",
+    "slot": "ergonomics",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_03",
+    "nameZh": "全自动",
+    "slot": "ergonomics",
+    "cost": 40,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_04",
+    "nameZh": "弹匣卡榫",
+    "slot": "ergonomics",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_05",
+    "nameZh": "弹匣卡榫",
+    "slot": "ergonomics",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_06",
+    "nameZh": "扩口弹匣",
+    "slot": "ergonomics",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_07",
+    "nameZh": "扳机",
+    "slot": "ergonomics",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_08",
+    "nameZh": "枪轨护盖",
+    "slot": "ergonomics",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_09",
+    "nameZh": "缓冲器",
+    "slot": "ergonomics",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "ergonomics_10",
+    "nameZh": "连发",
+    "slot": "ergonomics",
+    "cost": 15,
+    "image": ""
+  }
+]

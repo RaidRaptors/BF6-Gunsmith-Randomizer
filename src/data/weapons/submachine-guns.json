@@ -1,0 +1,1489 @@
+[
+  {
+    "id": "sgx",
+    "nameZh": "SGX",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_01",
+          "barrel_06",
+          "barrel_05"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "top",
+        "allowedAttachmentIds": [
+          "top_02",
+          "top_01",
+          "top_03",
+          "top_04",
+          "top_05",
+          "top_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_03",
+          "sight_attachment_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_36",
+          "magazine_40",
+          "magazine_46"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_04",
+          "ammo_07"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "pw5a3",
+    "nameZh": "PW5A3",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_01",
+          "barrel_04"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_03",
+          "sight_attachment_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_09",
+          "ergonomics_04",
+          "ergonomics_10"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_36",
+          "magazine_18",
+          "magazine_43"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_12",
+          "ammo_04",
+          "ammo_07"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "pw7a2",
+    "nameZh": "PW7A2",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_09",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_09",
+          "barrel_04"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_04"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_36",
+          "magazine_18",
+          "magazine_43"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_12",
+          "ammo_09"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "umg_40",
+    "nameZh": "UMG-40",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_01",
+          "barrel_06",
+          "barrel_04",
+          "barrel_09",
+          "barrel_08"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_27",
+          "sight_46",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_03",
+          "sight_attachment_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_09",
+          "ergonomics_10"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_27",
+          "magazine_31",
+          "magazine_36",
+          "magazine_40"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_13",
+          "ammo_03",
+          "ammo_06"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "usg_90",
+    "nameZh": "USG-90",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_09",
+          "muzzle_05",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_06",
+          "barrel_04",
+          "barrel_09",
+          "barrel_08"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_06",
+          "left_rail_05",
+          "left_rail_07",
+          "left_rail_08",
+          "left_rail_09",
+          "left_rail_10"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_03",
+          "sight_attachment_05",
+          "sight_attachment_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_04",
+          "ergonomics_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_57"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_22",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_03",
+          "ammo_06"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "kv9",
+    "nameZh": "KV9",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_01",
+          "barrel_06"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "top",
+        "allowedAttachmentIds": [
+          "top_02",
+          "top_01",
+          "top_03",
+          "top_04",
+          "top_05",
+          "top_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_10"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_14",
+          "magazine_15",
+          "magazine_26",
+          "magazine_33"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_04",
+          "ammo_07"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "scw_10",
+    "nameZh": "SCW-10",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_01",
+          "barrel_06"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "top",
+        "allowedAttachmentIds": [
+          "top_02",
+          "top_01",
+          "top_03",
+          "top_04",
+          "top_05",
+          "top_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_04"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_08",
+          "magazine_11",
+          "magazine_19",
+          "magazine_30"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_20",
+          "ammo_04",
+          "ammo_08"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "sl9",
+    "nameZh": "SL9",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_06",
+          "barrel_04",
+          "barrel_09",
+          "barrel_08",
+          "barrel_01"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02",
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12",
+          "rail_06",
+          "rail_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_04",
+          "ergonomics_10"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_72"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_11",
+          "ammo_03",
+          "ammo_06"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "cz3a1",
+    "nameZh": "CZ3A1",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_01",
+          "barrel_06"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_04",
+          "ergonomics_10",
+          "ergonomics_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_18",
+          "magazine_36",
+          "magazine_37",
+          "magazine_38"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_04",
+          "ammo_07"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "pp_19",
+    "nameZh": "PP-19",
+    "category": "submachine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_17",
+          "muzzle_09",
+          "muzzle_19"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_03",
+          "barrel_01",
+          "barrel_06",
+          "barrel_04"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_04",
+          "ergonomics_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_28",
+          "underbarrel_22"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_22",
+          "magazine_36",
+          "magazine_37",
+          "magazine_64"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_11",
+          "ammo_03",
+          "ammo_06"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  }
+]

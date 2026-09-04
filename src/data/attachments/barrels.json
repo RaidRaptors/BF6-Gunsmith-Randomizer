@@ -1,0 +1,65 @@
+[
+  {
+    "id": "barrel_01",
+    "nameZh": "加长枪管",
+    "slot": "barrel",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "barrel_02",
+    "nameZh": "加长轻量型",
+    "slot": "barrel",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "barrel_03",
+    "nameZh": "基本枪管",
+    "slot": "barrel",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "barrel_04",
+    "nameZh": "深冷枪管",
+    "slot": "barrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "barrel_05",
+    "nameZh": "短枪管",
+    "slot": "barrel",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "barrel_06",
+    "nameZh": "轻型枪管",
+    "slot": "barrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "barrel_07",
+    "nameZh": "轻量短枪管",
+    "slot": "barrel",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "barrel_08",
+    "nameZh": "重型加长枪管",
+    "slot": "barrel",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "barrel_09",
+    "nameZh": "重型枪管",
+    "slot": "barrel",
+    "cost": 10,
+    "image": ""
+  }
+]

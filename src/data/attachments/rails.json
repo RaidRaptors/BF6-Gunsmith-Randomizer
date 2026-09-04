@@ -1,0 +1,86 @@
+[
+  {
+    "id": "rail_01",
+    "nameZh": "战术灯（瞄准）",
+    "slot": "rail",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "rail_02",
+    "nameZh": "战术灯（腰射）",
+    "slot": "rail",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "rail_03",
+    "nameZh": "手电筒",
+    "slot": "rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "rail_04",
+    "nameZh": "紫色镭射",
+    "slot": "rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "rail_05",
+    "nameZh": "红色镭射",
+    "slot": "rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "rail_06",
+    "nameZh": "红色镭射/灯光组合",
+    "slot": "rail",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "rail_07",
+    "nameZh": "绿色镭射",
+    "slot": "rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "rail_08",
+    "nameZh": "绿色镭射",
+    "slot": "rail",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "rail_09",
+    "nameZh": "绿色镭射/灯光组合",
+    "slot": "rail",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "rail_10",
+    "nameZh": "绿色镭射/灯管组合",
+    "slot": "rail",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "rail_11",
+    "nameZh": "蓝色镭射",
+    "slot": "rail",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "rail_12",
+    "nameZh": "蓝色镭射",
+    "slot": "rail",
+    "cost": 30,
+    "image": ""
+  }
+]

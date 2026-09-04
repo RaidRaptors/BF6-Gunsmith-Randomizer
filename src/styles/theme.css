@@ -1,0 +1,69 @@
+:root {
+  /* === BF6 枪械改装 · 战术科技暗色主题 ===
+     扁平化 + 科技感：近黑暗底（带微绿倾向），
+     白色文字层级 + 单一「作战绿」高亮，琥珀仅用于锁定，红色用于危险 */
+
+  /* 背景色 */
+  --color-bg-primary: #0a0e0b;
+  --color-bg-secondary: #0f1411;
+  --color-bg-tertiary: #171d19;
+  --color-bg-card: #111613;
+  --color-bg-card-hover: #1a221d;
+
+  /* 边框 */
+  --color-border: #26332c;
+  --color-border-highlight: #00ff9d;
+
+  /* 文字 */
+  --color-text-primary: #eef5f1;
+  --color-text-secondary: #9db2a6;
+  --color-text-muted: #5e7266;
+  --color-text-accent: #00ff9d;
+
+  /* 功能色 */
+  --color-accent: #00ff9d;
+  --color-accent-hover: #3affb2;
+  --color-success: #3fb950;
+  --color-warning: #f0b429;
+  --color-danger: #ff5f56;
+  --color-danger-hover: #ff7a72;
+
+  /* 辅助效果 */
+  --glow-accent: 0 0 14px rgba(0, 255, 157, 0.35);
+  --tint-accent: rgba(0, 255, 157, 0.08);
+
+  /* 间距 */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+
+  /* 圆角（扁平为主，轻微圆角） */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+
+  /* 阴影 */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.55);
+
+  /* 字体 */
+  --font-sans: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+
+  /* 字号 */
+  --text-xs: 11px;
+  --text-sm: 13px;
+  --text-base: 15px;
+  --text-lg: 18px;
+  --text-xl: 24px;
+  --text-2xl: 32px;
+
+  /* 过渡 */
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.25s ease;
+  --transition-slow: 0.4s ease;
+}

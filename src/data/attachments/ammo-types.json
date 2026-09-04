@@ -1,0 +1,177 @@
+[
+  {
+    "id": "ammo_01",
+    "nameZh": "#00 鹿弹",
+    "slot": "ammo",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "ammo_02",
+    "nameZh": "#01 鹿弹",
+    "slot": "ammo",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ammo_03",
+    "nameZh": "亚音速弹药",
+    "slot": "ammo",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ammo_04",
+    "nameZh": "亚音速弹药",
+    "slot": "ammo",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "ammo_05",
+    "nameZh": "亚音速弹药",
+    "slot": "ammo",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "ammo_06",
+    "nameZh": "亚音速空尖弹药",
+    "slot": "ammo",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "ammo_07",
+    "nameZh": "亚音速空尖弹药",
+    "slot": "ammo",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "ammo_08",
+    "nameZh": "亚音速空尖弹药",
+    "slot": "ammo",
+    "cost": 35,
+    "image": ""
+  },
+  {
+    "id": "ammo_09",
+    "nameZh": "亚音速穿透弹药",
+    "slot": "ammo",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ammo_10",
+    "nameZh": "制式弹药",
+    "slot": "ammo",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "ammo_11",
+    "nameZh": "合成尖端弹药",
+    "slot": "ammo",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "ammo_12",
+    "nameZh": "合成弹药",
+    "slot": "ammo",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "ammo_13",
+    "nameZh": "合成弹药",
+    "slot": "ammo",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "ammo_14",
+    "nameZh": "合成弹药",
+    "slot": "ammo",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "ammo_15",
+    "nameZh": "射程穿透弹药",
+    "slot": "ammo",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ammo_16",
+    "nameZh": "尖端弹药",
+    "slot": "ammo",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "ammo_17",
+    "nameZh": "尖端弹药",
+    "slot": "ammo",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "ammo_18",
+    "nameZh": "易碎",
+    "slot": "ammo",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "ammo_19",
+    "nameZh": "空尖弹药",
+    "slot": "ammo",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "ammo_20",
+    "nameZh": "空尖弹药",
+    "slot": "ammo",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "ammo_21",
+    "nameZh": "穿透弹药",
+    "slot": "ammo",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "ammo_22",
+    "nameZh": "轻量化弹药",
+    "slot": "ammo",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ammo_23",
+    "nameZh": "远射程弹药",
+    "slot": "ammo",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "ammo_24",
+    "nameZh": "霰弹",
+    "slot": "ammo",
+    "cost": 40,
+    "image": ""
+  },
+  {
+    "id": "ammo_25",
+    "nameZh": "飞镖弹",
+    "slot": "ammo",
+    "cost": 30,
+    "image": ""
+  }
+]

@@ -1,0 +1,23 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+
+# 打包产物（改用 GitHub Releases 附件发布）
+release/
+*.zip
+
+# electron-builder 调试文件
+builder-debug.yml
+
+# Claude 工作区配置
+.claude/
+
+# 临时文件
+_verify_result.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log

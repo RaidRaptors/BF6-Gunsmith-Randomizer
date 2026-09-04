@@ -1,0 +1,44 @@
+[
+  {
+    "id": "top_01",
+    "nameZh": "紫色镭射",
+    "slot": "top",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "top_02",
+    "nameZh": "红色镭射",
+    "slot": "top",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "top_03",
+    "nameZh": "绿色镭射",
+    "slot": "top",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "top_04",
+    "nameZh": "绿色镭射",
+    "slot": "top",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "top_05",
+    "nameZh": "蓝色镭射",
+    "slot": "top",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "top_06",
+    "nameZh": "蓝色镭射",
+    "slot": "top",
+    "cost": 30,
+    "image": ""
+  }
+]

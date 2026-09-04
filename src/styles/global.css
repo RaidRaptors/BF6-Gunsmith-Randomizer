@@ -1,0 +1,78 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  color: var(--color-text-primary);
+  background-color: var(--color-bg-primary);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-bg-tertiary);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* 按钮基础样式重置 */
+button {
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  color: inherit;
+  /* 关闭 Windows 原生按钮外观：
+     否则点击后按钮会保留原生的「焦点虚线白框」，outline:none 无法移除 */
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+/* 移除点击后残留的聚焦白边（Chromium/Electron 默认 focus ring）。
+   !important 兜底：部分 Windows 主题下 UA 的 :focus-visible outline 优先级更高。 */
+button:focus,
+button:focus-visible,
+button:active,
+input:focus,
+input:focus-visible,
+select:focus,
+select:focus-visible {
+  outline: none !important;
+  outline-offset: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* 文本选择 */
+::selection {
+  background-color: var(--color-accent);
+  color: #06231a;
+}

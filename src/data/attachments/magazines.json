@@ -1,0 +1,597 @@
+[
+  {
+    "id": "magazine_01",
+    "nameZh": "100发弹匣",
+    "slot": "magazine",
+    "cost": 45,
+    "image": ""
+  },
+  {
+    "id": "magazine_02",
+    "nameZh": "100发弹链箱",
+    "slot": "magazine",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "magazine_03",
+    "nameZh": "100发弹链箱",
+    "slot": "magazine",
+    "cost": 55,
+    "image": ""
+  },
+  {
+    "id": "magazine_04",
+    "nameZh": "100发弹链袋",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_05",
+    "nameZh": "100发弹链袋",
+    "slot": "magazine",
+    "cost": 55,
+    "image": ""
+  },
+  {
+    "id": "magazine_06",
+    "nameZh": "10发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_07",
+    "nameZh": "10发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_08",
+    "nameZh": "15发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_09",
+    "nameZh": "15发弹匣",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_10",
+    "nameZh": "15发弹匣",
+    "slot": "magazine",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "magazine_11",
+    "nameZh": "15发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_12",
+    "nameZh": "15发快速弹匣",
+    "slot": "magazine",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "magazine_13",
+    "nameZh": "15发快速弹匣",
+    "slot": "magazine",
+    "cost": 35,
+    "image": ""
+  },
+  {
+    "id": "magazine_14",
+    "nameZh": "17发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_15",
+    "nameZh": "17发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_16",
+    "nameZh": "200发弹链箱",
+    "slot": "magazine",
+    "cost": 50,
+    "image": ""
+  },
+  {
+    "id": "magazine_17",
+    "nameZh": "200发弹链箱",
+    "slot": "magazine",
+    "cost": 55,
+    "image": ""
+  },
+  {
+    "id": "magazine_18",
+    "nameZh": "20发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_19",
+    "nameZh": "20发弹匣",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_20",
+    "nameZh": "20发弹匣",
+    "slot": "magazine",
+    "cost": 45,
+    "image": ""
+  },
+  {
+    "id": "magazine_21",
+    "nameZh": "20发弹匣",
+    "slot": "magazine",
+    "cost": 55,
+    "image": ""
+  },
+  {
+    "id": "magazine_22",
+    "nameZh": "20发快速弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_23",
+    "nameZh": "20发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_24",
+    "nameZh": "20发快速弹匣",
+    "slot": "magazine",
+    "cost": 50,
+    "image": ""
+  },
+  {
+    "id": "magazine_25",
+    "nameZh": "20发快速弹匣",
+    "slot": "magazine",
+    "cost": 60,
+    "image": ""
+  },
+  {
+    "id": "magazine_26",
+    "nameZh": "23发弹匣",
+    "slot": "magazine",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "magazine_27",
+    "nameZh": "25发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_28",
+    "nameZh": "25发弹匣",
+    "slot": "magazine",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "magazine_29",
+    "nameZh": "25发弹匣",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_30",
+    "nameZh": "25发弹匣",
+    "slot": "magazine",
+    "cost": 45,
+    "image": ""
+  },
+  {
+    "id": "magazine_31",
+    "nameZh": "25发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_32",
+    "nameZh": "25发快速弹匣",
+    "slot": "magazine",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "magazine_33",
+    "nameZh": "27发弹匣",
+    "slot": "magazine",
+    "cost": 45,
+    "image": ""
+  },
+  {
+    "id": "magazine_34",
+    "nameZh": "30发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_35",
+    "nameZh": "30发弹匣",
+    "slot": "magazine",
+    "cost": 40,
+    "image": ""
+  },
+  {
+    "id": "magazine_36",
+    "nameZh": "30发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_37",
+    "nameZh": "35发弹匣",
+    "slot": "magazine",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "magazine_38",
+    "nameZh": "35发快速弹匣",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_39",
+    "nameZh": "36发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_40",
+    "nameZh": "36发弹匣",
+    "slot": "magazine",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "magazine_41",
+    "nameZh": "3发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_42",
+    "nameZh": "40发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_43",
+    "nameZh": "40发弹匣",
+    "slot": "magazine",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "magazine_44",
+    "nameZh": "40发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_45",
+    "nameZh": "40发快速弹匣",
+    "slot": "magazine",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "magazine_46",
+    "nameZh": "41发弹匣",
+    "slot": "magazine",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "magazine_47",
+    "nameZh": "42发弹匣",
+    "slot": "magazine",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "magazine_48",
+    "nameZh": "42发快速弹匣",
+    "slot": "magazine",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "magazine_49",
+    "nameZh": "45发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_50",
+    "nameZh": "45发弹匣",
+    "slot": "magazine",
+    "cost": 35,
+    "image": ""
+  },
+  {
+    "id": "magazine_51",
+    "nameZh": "45发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_52",
+    "nameZh": "45发快速弹匣",
+    "slot": "magazine",
+    "cost": 40,
+    "image": ""
+  },
+  {
+    "id": "magazine_53",
+    "nameZh": "4发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_54",
+    "nameZh": "4发弹管",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_55",
+    "nameZh": "4发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_56",
+    "nameZh": "4发快速装填器",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_57",
+    "nameZh": "50发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_58",
+    "nameZh": "50发弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_59",
+    "nameZh": "50发弹匣",
+    "slot": "magazine",
+    "cost": 45,
+    "image": ""
+  },
+  {
+    "id": "magazine_60",
+    "nameZh": "50发弹链",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_61",
+    "nameZh": "50发弹链箱",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_62",
+    "nameZh": "50发弹链袋",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_63",
+    "nameZh": "50发弹鼓",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_64",
+    "nameZh": "53发弹匣",
+    "slot": "magazine",
+    "cost": 45,
+    "image": ""
+  },
+  {
+    "id": "magazine_65",
+    "nameZh": "5发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_66",
+    "nameZh": "5发弹管",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_67",
+    "nameZh": "5发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_68",
+    "nameZh": "5发快速装填器",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_69",
+    "nameZh": "60发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_70",
+    "nameZh": "60发弹匣",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_71",
+    "nameZh": "60发弹匣",
+    "slot": "magazine",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "magazine_72",
+    "nameZh": "60发弹匣",
+    "slot": "magazine",
+    "cost": 55,
+    "image": ""
+  },
+  {
+    "id": "magazine_73",
+    "nameZh": "60发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_74",
+    "nameZh": "6发弹管",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_75",
+    "nameZh": "75发弹链箱",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_76",
+    "nameZh": "75发弹鼓",
+    "slot": "magazine",
+    "cost": 50,
+    "image": ""
+  },
+  {
+    "id": "magazine_77",
+    "nameZh": "7发双弹管",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_78",
+    "nameZh": "7发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_79",
+    "nameZh": "7发弹匣",
+    "slot": "magazine",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "magazine_80",
+    "nameZh": "7发弹管",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_81",
+    "nameZh": "7发快速弹匣",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_82",
+    "nameZh": "8发弹匣",
+    "slot": "magazine",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "magazine_83",
+    "nameZh": "8发弹匣",
+    "slot": "magazine",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "magazine_84",
+    "nameZh": "8发快速弹匣",
+    "slot": "magazine",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "magazine_85",
+    "nameZh": "95发弹鼓",
+    "slot": "magazine",
+    "cost": 50,
+    "image": ""
+  }
+]

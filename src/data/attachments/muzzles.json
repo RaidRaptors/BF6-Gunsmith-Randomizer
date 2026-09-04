@@ -1,0 +1,142 @@
+[
+  {
+    "id": "muzzle_01",
+    "nameZh": "200MM SM消音",
+    "slot": "muzzle",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "muzzle_02",
+    "nameZh": "200MM原厂消音",
+    "slot": "muzzle",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "muzzle_03",
+    "nameZh": "三口制退器",
+    "slot": "muzzle",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "muzzle_04",
+    "nameZh": "制式消音器",
+    "slot": "muzzle",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "muzzle_05",
+    "nameZh": "单口制退器",
+    "slot": "muzzle",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "muzzle_06",
+    "nameZh": "双口制退器",
+    "slot": "muzzle",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "muzzle_07",
+    "nameZh": "多口制退器",
+    "slot": "muzzle",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "muzzle_08",
+    "nameZh": "斜置制退器",
+    "slot": "muzzle",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "muzzle_09",
+    "nameZh": "消炎补偿器",
+    "slot": "muzzle",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "muzzle_10",
+    "nameZh": "消焰器",
+    "slot": "muzzle",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "muzzle_11",
+    "nameZh": "混合式消音器(K)",
+    "slot": "muzzle",
+    "cost": 50,
+    "image": ""
+  },
+  {
+    "id": "muzzle_12",
+    "nameZh": "混合式消音器(L)",
+    "slot": "muzzle",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "muzzle_13",
+    "nameZh": "混合式消音器(S)",
+    "slot": "muzzle",
+    "cost": 40,
+    "image": ""
+  },
+  {
+    "id": "muzzle_14",
+    "nameZh": "螺纹保护器",
+    "slot": "muzzle",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "muzzle_15",
+    "nameZh": "补偿制动器",
+    "slot": "muzzle",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "muzzle_16",
+    "nameZh": "补偿器",
+    "slot": "muzzle",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "muzzle_17",
+    "nameZh": "转换器",
+    "slot": "muzzle",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "muzzle_18",
+    "nameZh": "轻量化消音器",
+    "slot": "muzzle",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "muzzle_19",
+    "nameZh": "近战消音器",
+    "slot": "muzzle",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "muzzle_20",
+    "nameZh": "长版消音器",
+    "slot": "muzzle",
+    "cost": 25,
+    "image": ""
+  }
+]

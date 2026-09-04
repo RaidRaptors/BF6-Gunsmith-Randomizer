@@ -1,0 +1,72 @@
+[
+  {
+    "id": "left_rail_01",
+    "nameZh": "战术灯（瞄准）",
+    "slot": "left_rail",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "left_rail_02",
+    "nameZh": "战术灯（腰射）",
+    "slot": "left_rail",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "left_rail_03",
+    "nameZh": "手电筒",
+    "slot": "left_rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "left_rail_04",
+    "nameZh": "测距仪",
+    "slot": "left_rail",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "left_rail_05",
+    "nameZh": "紫色镭射",
+    "slot": "left_rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "left_rail_06",
+    "nameZh": "红色镭射",
+    "slot": "left_rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "left_rail_07",
+    "nameZh": "绿色镭射",
+    "slot": "left_rail",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "left_rail_08",
+    "nameZh": "绿色镭射",
+    "slot": "left_rail",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "left_rail_09",
+    "nameZh": "蓝色镭射",
+    "slot": "left_rail",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "left_rail_10",
+    "nameZh": "蓝色镭射",
+    "slot": "left_rail",
+    "cost": 30,
+    "image": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sight_attachment_01",
+    "nameZh": "三倍可调缩放",
+    "slot": "sight_attachment",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_attachment_02",
+    "nameZh": "二倍可调缩放",
+    "slot": "sight_attachment",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_attachment_03",
+    "nameZh": "反射式瞄准镜",
+    "slot": "sight_attachment",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_attachment_04",
+    "nameZh": "四倍可调缩放",
+    "slot": "sight_attachment",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_attachment_05",
+    "nameZh": "放大镜",
+    "slot": "sight_attachment",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_attachment_06",
+    "nameZh": "斜制反射式瞄具",
+    "slot": "sight_attachment",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_attachment_07",
+    "nameZh": "斜制金属瞄具",
+    "slot": "sight_attachment",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "sight_attachment_08",
+    "nameZh": "防眩光",
+    "slot": "sight_attachment",
+    "cost": 10,
+    "image": ""
+  }
+]

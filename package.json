@@ -1,0 +1,65 @@
+{
+  "name": "bf6-gunsmith-randomizer",
+  "version": "1.0.0",
+  "description": "战地6 枪械随机改装生成器",
+  "main": "electron-main/main.js",
+  "scripts": {
+    "dev:renderer": "vite",
+    "dev:electron": "env -u ELECTRON_RUN_AS_NODE electron .",
+    "dev": "concurrently -k \"npm run dev:renderer\" \"sleep 2 && npm run dev:electron\"",
+    "build:renderer": "tsc --noEmit && vite build",
+    "build": "npm run build:renderer",
+    "package": "npm run build && electron-builder",
+    "package:dir": "npm run build && electron-builder --dir"
+  },
+  "keywords": [
+    "bf6",
+    "gunsmith",
+    "randomizer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "build": {
+    "appId": "com.bf6.gunsmith-randomizer",
+    "productName": "BF6-Gunsmith-Randomizer",
+    "copyright": "MIT",
+    "electronDist": "node_modules/electron/dist",
+    "electronVersion": "35.0.0",
+    "asar": false,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/renderer/**/*",
+      "electron-main/**/*",
+      "package.json"
+    ],
+    "win": {
+      "icon": null,
+      "signAndEditExecutable": false,
+      "target": [
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ]
+    },
+    "portable": {
+      "artifactName": "BF6-Gunsmith-Randomizer-${version}.exe"
+    }
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^4.4.0",
+    "concurrently": "^9.1.0",
+    "electron": "^35.0.0",
+    "electron-builder": "^25.1.0",
+    "typescript": "^5.7.0",
+    "vite": "^6.3.0"
+  }
+}

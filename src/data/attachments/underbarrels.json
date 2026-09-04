@@ -1,0 +1,198 @@
+[
+  {
+    "id": "underbarrel_01",
+    "nameZh": "6H64垂直握把",
+    "slot": "underbarrel",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_02",
+    "nameZh": "PTT握把荚舱",
+    "slot": "underbarrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_03",
+    "nameZh": "下挂式安装座",
+    "slot": "underbarrel",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_04",
+    "nameZh": "两脚脚架",
+    "slot": "underbarrel",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_05",
+    "nameZh": "原厂直角握把",
+    "slot": "underbarrel",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_06",
+    "nameZh": "可调整直角握把",
+    "slot": "underbarrel",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_07",
+    "nameZh": "合金垂直握把",
+    "slot": "underbarrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_08",
+    "nameZh": "完全直角握把",
+    "slot": "underbarrel",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_09",
+    "nameZh": "完全直角握把",
+    "slot": "underbarrel",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_10",
+    "nameZh": "小型短握把",
+    "slot": "underbarrel",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_11",
+    "nameZh": "小型短握把",
+    "slot": "underbarrel",
+    "cost": 45,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_12",
+    "nameZh": "快拆式握把荚舱",
+    "slot": "underbarrel",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_13",
+    "nameZh": "快拆式握把荚舱",
+    "slot": "underbarrel",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_14",
+    "nameZh": "折叠式垂直握把",
+    "slot": "underbarrel",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_15",
+    "nameZh": "折叠短握把",
+    "slot": "underbarrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_16",
+    "nameZh": "斜制垂直握把",
+    "slot": "underbarrel",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_17",
+    "nameZh": "斜置宽型短握把",
+    "slot": "underbarrel",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_18",
+    "nameZh": "条纹垂直握把",
+    "slot": "underbarrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_19",
+    "nameZh": "条纹款型短握把",
+    "slot": "underbarrel",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_20",
+    "nameZh": "点状宽型短握把",
+    "slot": "underbarrel",
+    "cost": 35,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_21",
+    "nameZh": "细型直角握把",
+    "slot": "underbarrel",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_22",
+    "nameZh": "细型直角握把",
+    "slot": "underbarrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_23",
+    "nameZh": "细型直角握把",
+    "slot": "underbarrel",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_24",
+    "nameZh": "细型阻手器",
+    "slot": "underbarrel",
+    "cost": 15,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_25",
+    "nameZh": "经典垂直握把",
+    "slot": "underbarrel",
+    "cost": 35,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_26",
+    "nameZh": "经典握把荚舱",
+    "slot": "underbarrel",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_27",
+    "nameZh": "经典握把荚舱",
+    "slot": "underbarrel",
+    "cost": 30,
+    "image": ""
+  },
+  {
+    "id": "underbarrel_28",
+    "nameZh": "轻巧阻手",
+    "slot": "underbarrel",
+    "cost": 10,
+    "image": ""
+  }
+]

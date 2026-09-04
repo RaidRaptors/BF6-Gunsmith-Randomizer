@@ -1,0 +1,51 @@
+[
+  {
+    "id": "assault_rifle",
+    "nameZh": "突击步枪",
+    "icon": "🔫",
+    "order": 1,
+    "image": ""
+  },
+  {
+    "id": "submachine_gun",
+    "nameZh": "冲锋枪",
+    "icon": "🔫",
+    "order": 2,
+    "image": ""
+  },
+  {
+    "id": "carbine",
+    "nameZh": "卡宾枪",
+    "icon": "🔫",
+    "order": 3,
+    "image": ""
+  },
+  {
+    "id": "light_machine_gun",
+    "nameZh": "轻机枪",
+    "icon": "🔫",
+    "order": 4,
+    "image": ""
+  },
+  {
+    "id": "dmr",
+    "nameZh": "精确射手步枪",
+    "icon": "🎯",
+    "order": 5,
+    "image": ""
+  },
+  {
+    "id": "sniper_rifle",
+    "nameZh": "狙击步枪",
+    "icon": "🎯",
+    "order": 6,
+    "image": ""
+  },
+  {
+    "id": "shotgun",
+    "nameZh": "霰弹枪",
+    "icon": "🔫",
+    "order": 7,
+    "image": ""
+  }
+]

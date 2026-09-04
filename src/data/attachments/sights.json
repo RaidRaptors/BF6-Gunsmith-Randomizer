@@ -1,0 +1,340 @@
+[
+  {
+    "id": "sight_01",
+    "nameZh": "1P87 1.5倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_02",
+    "nameZh": "2PRO 1.25倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_03",
+    "nameZh": "3VZR 1.75倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_04",
+    "nameZh": "AP2 1.75倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_05",
+    "nameZh": "BAKER 3.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_06",
+    "nameZh": "BF-2M 2.50倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_07",
+    "nameZh": "CCO 2.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_08",
+    "nameZh": "CQ RDS 1.25倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_09",
+    "nameZh": "LDS 4.50倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_10",
+    "nameZh": "LERT 8.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_11",
+    "nameZh": "MINI FLEX 1.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_12",
+    "nameZh": "NFX 8.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_13",
+    "nameZh": "OSA-7 1.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_14",
+    "nameZh": "PVO-31 4.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_15",
+    "nameZh": "R-MR 1.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_16",
+    "nameZh": "R-VPS 10.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_17",
+    "nameZh": "R4T 2.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_18",
+    "nameZh": "RO-M 1.75倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_19",
+    "nameZh": "RO-S 1.25倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_20",
+    "nameZh": "ROX 1.50倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_21",
+    "nameZh": "S-VPS 6.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_22",
+    "nameZh": "SDO 3.50倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_23",
+    "nameZh": "SF-G2 5.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_24",
+    "nameZh": "SSDS 6.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_25",
+    "nameZh": "ST PRISM 5.00倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": ""
+  },
+  {
+    "id": "sight_26",
+    "nameZh": "SU-123 1.5倍",
+    "slot": "sight",
+    "cost": 10,
+    "image": "",
+    "magnifierCompatible": true
+  },
+  {
+    "id": "sight_27",
+    "nameZh": "光圈式瞄具",
+    "slot": "sight",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "sight_28",
+    "nameZh": "变焦1-4倍",
+    "slot": "sight",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "sight_29",
+    "nameZh": "变焦1-5倍",
+    "slot": "sight",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "sight_30",
+    "nameZh": "变焦1-5倍",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_31",
+    "nameZh": "变焦1-5倍（MARS-F）",
+    "slot": "sight",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "sight_32",
+    "nameZh": "变焦1-5倍（NGFC）",
+    "slot": "sight",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "sight_33",
+    "nameZh": "变焦1-6倍（DVO）",
+    "slot": "sight",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "sight_34",
+    "nameZh": "变焦1-6倍（DVO）",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_35",
+    "nameZh": "变焦1-6倍（MCO）",
+    "slot": "sight",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "sight_36",
+    "nameZh": "变焦1-6倍（MCO）",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_37",
+    "nameZh": "变焦1.25-4.25倍",
+    "slot": "sight",
+    "cost": 20,
+    "image": ""
+  },
+  {
+    "id": "sight_38",
+    "nameZh": "变焦2-8倍",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_39",
+    "nameZh": "变焦3-10倍",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_40",
+    "nameZh": "折叠式金属瞄具",
+    "slot": "sight",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "sight_41",
+    "nameZh": "提把式金属瞄具",
+    "slot": "sight",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "sight_42",
+    "nameZh": "混合式热成像",
+    "slot": "sight",
+    "cost": 35,
+    "image": ""
+  },
+  {
+    "id": "sight_43",
+    "nameZh": "热成像1.50倍",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_44",
+    "nameZh": "热成像3.00倍",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_45",
+    "nameZh": "热成像6.00倍",
+    "slot": "sight",
+    "cost": 25,
+    "image": ""
+  },
+  {
+    "id": "sight_46",
+    "nameZh": "近战瞄具",
+    "slot": "sight",
+    "cost": 5,
+    "image": ""
+  },
+  {
+    "id": "sight_47",
+    "nameZh": "金属瞄具",
+    "slot": "sight",
+    "cost": 5,
+    "image": ""
+  }
+]

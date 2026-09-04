@@ -1,0 +1,1575 @@
+[
+  {
+    "id": "l110",
+    "nameZh": "L110",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_06"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_23",
+          "underbarrel_09",
+          "underbarrel_16"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_04",
+          "magazine_17"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "drs_iar",
+    "nameZh": "DRS-IAR",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "top",
+        "allowedAttachmentIds": [
+          "top_02",
+          "top_01",
+          "top_03",
+          "top_04",
+          "top_05",
+          "top_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_06",
+          "barrel_03",
+          "barrel_01",
+          "barrel_05"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_23",
+          "underbarrel_09",
+          "underbarrel_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_34",
+          "magazine_36",
+          "magazine_40",
+          "magazine_43",
+          "magazine_45",
+          "magazine_50",
+          "magazine_52",
+          "magazine_59",
+          "magazine_72"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_22",
+          "ammo_16"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_08",
+          "ergonomics_09",
+          "ergonomics_07",
+          "ergonomics_06"
+        ],
+        "defaultEmpty": true
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "m_60",
+    "nameZh": "M/60",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_06"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_23",
+          "underbarrel_09",
+          "underbarrel_16",
+          "underbarrel_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_04",
+          "magazine_60"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_20"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "rpkm",
+    "nameZh": "RPKM",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11",
+          "muzzle_08"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_03",
+          "barrel_01",
+          "barrel_05"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_23",
+          "underbarrel_09",
+          "underbarrel_16",
+          "underbarrel_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_42",
+          "magazine_44",
+          "magazine_34",
+          "magazine_36",
+          "magazine_39",
+          "magazine_71",
+          "magazine_76"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_20",
+          "ammo_22",
+          "ammo_17"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_09",
+          "ergonomics_07",
+          "ergonomics_06"
+        ],
+        "defaultEmpty": true
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "m123k",
+    "nameZh": "M123K",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_05"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_09",
+          "underbarrel_16"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_04",
+          "magazine_16"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "m250",
+    "nameZh": "M250",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "top",
+        "allowedAttachmentIds": [
+          "top_02",
+          "top_01",
+          "top_03",
+          "top_04",
+          "top_05",
+          "top_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_09",
+          "underbarrel_16",
+          "underbarrel_06",
+          "underbarrel_23"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_05",
+          "magazine_61"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "kts100_mk8",
+    "nameZh": "KTS100 MK8",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11",
+          "muzzle_05"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_05"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_01",
+          "rail_03",
+          "rail_02",
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12",
+          "rail_06",
+          "rail_09"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_09",
+          "underbarrel_16",
+          "underbarrel_23"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_07",
+          "ergonomics_08"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_69",
+          "magazine_49",
+          "magazine_57",
+          "magazine_51",
+          "magazine_73",
+          "magazine_01"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_22",
+          "ammo_16"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "m240l",
+    "nameZh": "M240L",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_06"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_08"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_09",
+          "underbarrel_16",
+          "underbarrel_23"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_60",
+          "magazine_75",
+          "magazine_02"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_20"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "m121_a2",
+    "nameZh": "M121 A2",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_16",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_05"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_29",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_09",
+          "underbarrel_16",
+          "underbarrel_23"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_63",
+          "magazine_62",
+          "magazine_03"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_20"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "rpk_74m",
+    "nameZh": "RPK-74M",
+    "category": "light_machine_gun",
+    "maxBudget": 100,
+    "fireModes": [
+      "全自动"
+    ],
+    "slots": [
+      {
+        "slot": "muzzle",
+        "allowedAttachmentIds": [
+          "muzzle_10",
+          "muzzle_09",
+          "muzzle_06",
+          "muzzle_15",
+          "muzzle_17",
+          "muzzle_04",
+          "muzzle_20",
+          "muzzle_19",
+          "muzzle_18",
+          "muzzle_12",
+          "muzzle_13",
+          "muzzle_11",
+          "muzzle_08"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "barrel",
+        "allowedAttachmentIds": [
+          "barrel_09",
+          "barrel_08",
+          "barrel_05",
+          "barrel_03"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "left_rail",
+        "allowedAttachmentIds": [
+          "left_rail_01",
+          "left_rail_03",
+          "left_rail_02"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "rail",
+        "allowedAttachmentIds": [
+          "rail_05",
+          "rail_04",
+          "rail_07",
+          "rail_08",
+          "rail_11",
+          "rail_12"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "sight",
+        "allowedAttachmentIds": [
+          "sight_47",
+          "sight_11",
+          "sight_15",
+          "sight_13",
+          "sight_08",
+          "sight_19",
+          "sight_02",
+          "sight_20",
+          "sight_26",
+          "sight_01",
+          "sight_04",
+          "sight_18",
+          "sight_03",
+          "sight_07",
+          "sight_17",
+          "sight_06",
+          "sight_05",
+          "sight_22",
+          "sight_14",
+          "sight_09",
+          "sight_25",
+          "sight_23",
+          "sight_28",
+          "sight_37",
+          "sight_31",
+          "sight_32",
+          "sight_35",
+          "sight_33",
+          "sight_43",
+          "sight_44",
+          "sight_42"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "sight_attachment",
+        "allowedAttachmentIds": [
+          "sight_attachment_07",
+          "sight_attachment_06",
+          "sight_attachment_05",
+          "sight_attachment_03"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "ergonomics",
+        "allowedAttachmentIds": [
+          "ergonomics_09",
+          "ergonomics_07",
+          "ergonomics_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "underbarrel",
+        "allowedAttachmentIds": [
+          "underbarrel_14",
+          "underbarrel_07",
+          "underbarrel_18",
+          "underbarrel_01",
+          "underbarrel_25",
+          "underbarrel_15",
+          "underbarrel_19",
+          "underbarrel_17",
+          "underbarrel_20",
+          "underbarrel_11",
+          "underbarrel_04",
+          "underbarrel_02",
+          "underbarrel_13",
+          "underbarrel_27",
+          "underbarrel_24",
+          "underbarrel_09",
+          "underbarrel_16",
+          "underbarrel_23",
+          "underbarrel_06"
+        ],
+        "defaultEmpty": true
+      },
+      {
+        "slot": "magazine",
+        "allowedAttachmentIds": [
+          "magazine_49",
+          "magazine_51",
+          "magazine_34",
+          "magazine_36",
+          "magazine_39",
+          "magazine_70",
+          "magazine_85",
+          "magazine_58"
+        ],
+        "defaultEmpty": false
+      },
+      {
+        "slot": "ammo",
+        "allowedAttachmentIds": [
+          "ammo_10",
+          "ammo_21",
+          "ammo_18",
+          "ammo_19",
+          "ammo_22",
+          "ammo_16"
+        ],
+        "defaultEmpty": false
+      }
+    ],
+    "image": ""
+  }
+]
