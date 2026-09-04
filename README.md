@@ -21,13 +21,31 @@
 - **状态管理**：React Context + useReducer
 - **样式**：CSS Variables（扁平化 + 科技感暗色主题，白色/绿色高亮）
 
-## 快速开始
+## 获取软件
+
+**普通用户（推荐）**：无需安装 Node 或任何构建环境，直接下载打包好的安装包：
+
+1. 前往 [Releases](https://github.com/RaidRaptors/My-AI-powered-software/releases) 下载 `BF6-Gunsmith-Randomizer-v1.0.0-win-x64.zip`
+2. 解压到任意目录（保持文件夹结构完整，勿单独移动 exe）
+3. 双击「启动.bat」或「BF6-Gunsmith-Randomizer.exe」运行
+
+**开发者（从源码运行/构建）**：见下方「从源码构建」。
+
+> ⚠️ `npm install` 只是安装项目依赖，**并不会“安装”出可运行的软件本体**。要运行还得再执行 `npm run dev`；要得到安装包需执行打包命令。
+
+## 从源码构建（开发者）
 
 ### 安装依赖
 
 ```bash
 npm install
 ```
+
+> **国内网络提示**：`npm install` 会触发 Electron 下载约 100MB 的二进制（默认从 GitHub 获取）。若下载缓慢或失败，先设置镜像：
+> ```bash
+> npm config set electron_mirror "https://npmmirror.com/mirrors/electron/"
+> ```
+> 需要 Node.js 18.18+（或 20+）。
 
 ### 开发模式
 
