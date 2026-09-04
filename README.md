@@ -29,58 +29,6 @@
 2. 解压到任意目录（保持文件夹结构完整，勿单独移动 exe）
 3. 双击「启动.bat」或「BF6-Gunsmith-Randomizer.exe」运行
 
-**开发者（从源码运行/构建）**：见下方「从源码构建」。
-
-> ⚠️ `npm install` 只是安装项目依赖，**并不会“安装”出可运行的软件本体**。要运行还得再执行 `npm run dev`；要得到安装包需执行打包命令。
-
-## 从源码构建（开发者）
-
-### 安装依赖
-
-```bash
-npm install
-```
-
-> **国内网络提示**：`npm install` 会触发 Electron 下载约 100MB 的二进制（默认从 GitHub 获取）。若下载缓慢或失败，先设置镜像：
-> ```bash
-> npm config set electron_mirror "https://npmmirror.com/mirrors/electron/"
-> ```
-> 需要 Node.js 18.18+（或 20+）。
-
-### 开发模式
-
-```bash
-# 方式1：完整 Electron 桌面应用
-npm run dev
-
-# 方式2：仅浏览器（更轻量）
-npm run dev:renderer
-# 然后打开 http://localhost:5173
-```
-
-> **注意**：如果 Electron 启动失败，请检查系统是否设置了 `ELECTRON_RUN_AS_NODE` 环境变量。
-> 如果存在，请先执行 `unset ELECTRON_RUN_AS_NODE` (Git Bash) 或 `set ELECTRON_RUN_AS_NODE=` (CMD)。
-
-### 生产构建
-
-```bash
-npm run build
-```
-
-构建产物在 `dist/renderer/` 目录。
-
-### 打包
-
-```bash
-# 打包为解压版目录（无需联网，推荐）
-npm run package:dir
-
-# 打包为单文件便携版 .exe（需联网下载 NSIS）
-npm run package
-```
-
-打包产物输出到 `release/`。Windows 便携版可执行文件为 `release/BF6-Gunsmith-Randomizer-${version}.exe`。
-
 ## 项目结构
 
 ```
